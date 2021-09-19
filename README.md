@@ -25,7 +25,7 @@ Toshiiro is a bot that allows you to listen to music with your friends!
 - `c!uptime` = Shows how long the bot has been online.
 - `c!stats` = Show bot statistics.
 
-<h2 align="left">Invite:</h2>
+<h2 align="left">Invite (private bot):</h2>
 
 You can invite Toshiiro via [this](https://discord.com/oauth2/authorize?client_id=713844523247075470&scope=bot&permissions=3525696) link.
 
@@ -38,7 +38,7 @@ You can invite Toshiiro via [this](https://discord.com/oauth2/authorize?client_i
 
 <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 
-<h2 align="left">Stats:</h2>
+<h2 align="left">Stats (09/19/2021):</h2>
 
 - Servers: 6;
 - Users: 3211;
