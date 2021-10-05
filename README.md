@@ -48,7 +48,7 @@ You can invite Toshiiro via [this](https://discord.com/oauth2/authorize?client_i
 
 <h2 align="left">Support Server:</h2>
 
-You can request support on the Chill Vabes server by clicking [here](https://dsc.gg/chillvabes).
+You can request support on the Chill Vabes server by clicking [here](https://discord.gg/jxh2qxu).
 
 <h2 align="left">Contact:</h2>
 
