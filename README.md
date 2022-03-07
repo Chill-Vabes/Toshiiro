@@ -31,7 +31,7 @@ You can invite Toshiiro via [this](https://discord.com/oauth2/authorize?client_i
 
 <h2 align="left">Active Projects:</h2>
 
-- [Chill Vibes](https://discord.gg/jxh2qxu): Discord Server.
+- [Chill Vibes](https://discord.gg/jZwbbdQVFr): Discord Server.
 
 <h2 align="left">Languages and Tools:</h2>
 
@@ -47,11 +47,11 @@ You can invite Toshiiro via [this](https://discord.com/oauth2/authorize?client_i
 
 <h2 align="left">Support Server:</h2>
 
-You can request support on the Chill Vibes server by clicking [here](https://discord.gg/jxh2qxu).
+You can request support on the Chill Vibes server by clicking [here](https://discord.gg/jZwbbdQVFr).
 
 <h2 align="left">Contact:</h2>
 
 Contacting the bot developer is simple. You can do this via the support server, support email or discord.
-- Server Support: https://discord.gg/jxh2qxu;
+- Server Support: https://discord.gg/jZwbbdQVFr;
 - Email: botdiscord.davidcavallaro@gmail.com;
 - Discord ID: 470373387609571339.
